@@ -4,7 +4,8 @@
 **HEON7335/heon7335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+#이성헌(Seongheon Lee, 李性憲)
+##관리부문(총무/구매팀)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
